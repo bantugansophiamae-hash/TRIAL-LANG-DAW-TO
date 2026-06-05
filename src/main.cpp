@@ -4,8 +4,6 @@ void setup() {
     Serial.begin(115200);
     Serial.println("Hello World!");
     Serial.println("Hello BILATTTT!");
-    Serial.println("NAMO TIBO");
-    Serial.println("NAMO TIBO");
   
 }   
 
